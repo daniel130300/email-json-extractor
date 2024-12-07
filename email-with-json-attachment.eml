@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Date: Fri, 6 Dec 2024 23:25:20 -0600
+Message-ID: <CACLSh2ti5mQ+iuX4cmL1Hd2QRh+gg84Kfb-LqKYi=3sgZSF3fQ@mail.gmail.com>
+Subject: Email with JSON attachment
+From: =?UTF-8?B?aMOpY3RvciBsw7NwZXo=?= <hd_lopezb@unicah.edu>
+To: daniel130300@outlook.com
+Content-Type: multipart/mixed; boundary="00000000000085d5ac0628a75b8b"
+
+--00000000000085d5ac0628a75b8b
+Content-Type: multipart/alternative; boundary="00000000000085d5aa0628a75b89"
+
+--00000000000085d5aa0628a75b89
+Content-Type: text/plain; charset="UTF-8"
+
+Hi, this is an email with a JSON attachment.
+
+--00000000000085d5aa0628a75b89
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Hi, this is an email with a JSON attachment.</div>
+
+--00000000000085d5aa0628a75b89--
+--00000000000085d5ac0628a75b8b
+Content-Type: application/json; name="superheroes.json"
+Content-Disposition: attachment; filename="superheroes.json"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_m4dqdr0h0
+Content-ID: <f_m4dqdr0h0>
+
+ewogICJzcXVhZE5hbWUiOiAiU3VwZXIgaGVybyBzcXVhZCIsCiAgImhvbWVUb3duIjogIk1ldHJv
+IENpdHkiLAogICJmb3JtZWQiOiAyMDE2LAogICJzZWNyZXRCYXNlIjogIlN1cGVyIHRvd2VyIiwK
+ICAiYWN0aXZlIjogdHJ1ZSwKICAibWVtYmVycyI6IFsKICAgIHsKICAgICAgIm5hbWUiOiAiTW9s
+ZWN1bGUgTWFuIiwKICAgICAgImFnZSI6IDI5LAogICAgICAic2VjcmV0SWRlbnRpdHkiOiAiRGFu
+IEp1a2VzIiwKICAgICAgInBvd2VycyI6IFsiUmFkaWF0aW9uIHJlc2lzdGFuY2UiLCAiVHVybmlu
+ZyB0aW55IiwgIlJhZGlhdGlvbiBibGFzdCJdCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJN
+YWRhbWUgVXBwZXJjdXQiLAogICAgICAiYWdlIjogMzksCiAgICAgICJzZWNyZXRJZGVudGl0eSI6
+ICJKYW5lIFdpbHNvbiIsCiAgICAgICJwb3dlcnMiOiBbCiAgICAgICAgIk1pbGxpb24gdG9ubmUg
+cHVuY2giLAogICAgICAgICJEYW1hZ2UgcmVzaXN0YW5jZSIsCiAgICAgICAgIlN1cGVyaHVtYW4g
+cmVmbGV4ZXMiCiAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogIkV0ZXJuYWwgRmxh
+bWUiLAogICAgICAiYWdlIjogMTAwMDAwMCwKICAgICAgInNlY3JldElkZW50aXR5IjogIlVua25v
+d24iLAogICAgICAicG93ZXJzIjogWwogICAgICAgICJJbW1vcnRhbGl0eSIsCiAgICAgICAgIkhl
+YXQgSW1tdW5pdHkiLAogICAgICAgICJJbmZlcm5vIiwKICAgICAgICAiVGVsZXBvcnRhdGlvbiIs
+CiAgICAgICAgIkludGVyZGltZW5zaW9uYWwgdHJhdmVsIgogICAgICBdCiAgICB9CiAgXQp9Cg==
+--00000000000085d5ac0628a75b8b--

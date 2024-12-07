@@ -1,0 +1,20 @@
+MIME-Version: 1.0
+Date: Fri, 6 Dec 2024 23:28:05 -0600
+Message-ID: <CACLSh2vrxE1XEu+AUx4_WyQcxNWgC8Gz8Q1eH4-u_hqTfwP-_A@mail.gmail.com>
+Subject: Email with JSON URL
+From: =?UTF-8?B?aMOpY3RvciBsw7NwZXo=?= <hd_lopezb@unicah.edu>
+To: daniel130300@outlook.com
+Content-Type: multipart/alternative; boundary="0000000000005a15f40628a7656c"
+
+--0000000000005a15f40628a7656c
+Content-Type: text/plain; charset="UTF-8"
+
+Hi this is an email with a JSON URL.
+https://jsonplaceholder.typicode.com/todos/1
+
+--0000000000005a15f40628a7656c
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Hi this is an email with a JSON URL.<div><a href="https://jsonplaceholder.typicode.com/todos/1">https://jsonplaceholder.typicode.com/todos/1</a></div></div>
+
+--0000000000005a15f40628a7656c--
